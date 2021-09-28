@@ -4,6 +4,10 @@
 
 use two fingers to select a color or the eraser and index finger to draw on the screen.
 
+### How to run :
+
+**python live_cam_drawing.py**
+
 ![1](https://user-images.githubusercontent.com/47816410/135087507-05a53bb9-a04e-4fbe-a228-0aef2bafb27b.jpg)
 
 
